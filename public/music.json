@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Griffinilla",
+    "name": "Hard Drive",
+    "src": "./music/Griffinilla-Hard_Drive.mp3",
+    "img": "./harddrive.jpg",
+    "color1": "#F333FF",
+    "color2": "#9198e5"
+  },
+  {
+    "label": "Linkin Park",
+    "name": "In The End",
+    "src": "./music/LinkinPart-InTheEnd.mp3",
+    "img": "./linkin.jpg",
+    "color1": "#8f8f8f",
+    "color2": "#3d3939"
+  }
+]
